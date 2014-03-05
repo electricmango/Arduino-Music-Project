@@ -1,5 +1,5 @@
 /*************************************************
- * Public Constants
+ * Public Constants (available at http://arduino.cc/en/Tutorial/tone )
  *************************************************/
 
 #define NOTE_B0  31
