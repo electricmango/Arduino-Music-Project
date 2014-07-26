@@ -41,6 +41,6 @@ Thanks for reading me, as the title and the subtitle says.
 ######Contents:
 * Tetris [A-Theme]
 * Nyan Cat
-* Add your own by **fork**ing, **edit**ing, and **request**ing a **pull**! (Any contributors are welcome; [contact me](realleocarbon@gmail.com).)
+* Add your own by **forking**, **editing**, and **requesting a pull**! (Any contributors are welcome; [contact me](realleocarbon@gmail.com).)
 
 Make sure you **include the <code>pitches.h</code> header** for the code to work.
