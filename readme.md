@@ -1,10 +1,8 @@
 #Arduino Music Project
 ####by Electric Mango (Leocarbon)
-<http://electronicmango.blogspot.kr>
-
 <https://electricmango.github.io>
 
-<realleocarbon@gmail.com>
+<minhyukjang@gmail.com>
 
 Uses **Arduino tone library <code>pitches.h</code> <http://arduino.cc/en/Tutorial/tone>**
 
