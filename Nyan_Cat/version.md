@@ -1,10 +1,9 @@
 #Nyan Cat with Bass
-####by Electric Mango (Leocarbon)
-<http://electronicmango.blogspot.kr>
+####by electricmango
 
 <https://electricmango.github.io>
 
-<realleocarbon@gmail.com>
+<minhyukjang@gmail.com>
 
 Uses **Arduino tone library <code>pitches.h</code> <http://arduino.cc/en/Tutorial/tone>**
 
@@ -14,7 +13,7 @@ Thanks to Sean for posting the sheet music on
 
 <http://junket.tumblr.com/post/4776023022/heres-the-nyan-cat-sheet-music>
   
-Version 1.0.1
+Version 1.0.2
 
 ---
 The **Nyan Cat with Bass** is licensed under the
@@ -37,10 +36,15 @@ No additional restrictions — You may not apply legal terms or technological me
 
 The full license is available at <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
   
-Copyright (c) 2012 ~ 2014 Electric Mango (Leocarbon)
+Copyright (c) 2012 ~ 2015 electricmango
 
 ---
+
 ##version.txt
+
+######1.0.2 (1.24.15)
+* Minor refinements
+
 ######1.0.1 (3.5.14)
 * Updated licenses
 

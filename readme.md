@@ -1,5 +1,5 @@
 #Arduino Music Project
-####by Electric Mango (Leocarbon)
+####by electricmango
 <https://electricmango.github.io>
 
 <minhyukjang@gmail.com>
@@ -29,7 +29,7 @@ No additional restrictions — You may not apply legal terms or technological me
 
 The full license is available at <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
   
-Copyright (c) 2012 ~ 2014 Electric Mango (Leocarbon)
+Copyright (c) 2012 ~ 2015 electricmango
 
 ---
 ##readme.md
@@ -39,6 +39,6 @@ Thanks for reading me, as the title and the subtitle says.
 ######Contents:
 * Tetris [A-Theme]
 * Nyan Cat
-* Add your own by **forking**, **editing**, and **requesting a pull**! (Any contributors are welcome; [contact me](realleocarbon@gmail.com).)
+* Add your own by **forking**, **editing**, and **requesting a pull**! (Any contributors are welcome; [contact me](minhyukjang@gmail.com).)
 
 Make sure you **include the <code>pitches.h</code> header** for the code to work.

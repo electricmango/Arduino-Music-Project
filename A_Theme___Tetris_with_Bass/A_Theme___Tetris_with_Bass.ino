@@ -1,15 +1,14 @@
 /*A Theme - Tetris 
   with Bass
   Uses Arduino tone library pitches.h [http://arduino.cc/en/Tutorial/tone ]
-       by Electric Mango (Leocarbon)
-   http://electronicmango.blogspot.kr
+       by electricmango
   https://electricmango.github.io
-              realleocarbon@gmail.com
+          minhyukjang@gmail.com
   
   Thanks to Gori Fater for uploading the sheet music on Google.
   http://www.gamemusicthemes.com/sheetmusic/gameboy/tetris/
   
-  Version 1.0.2 
+  Version 1.0.3
   -------------------------------------------------------------------------
   A Theme - Tetris with Bass is licensed under the
   
@@ -31,14 +30,14 @@
 
   The full license is available at https://creativecommons.org/licenses/by-sa/4.0/legalcode
   
-  Copyright (c) 2012 ~ 2014 Electric Mango (Leocarbon)
+  Copyright (c) 2012 ~ 2015 electricmango
   -------------------------------------------------------------------------
   A_Theme___Tetris_with_Bass.ino
 */
- 
+
 #include "pitches.h"
 
-    // notes in the melody:
+//notes in the melody:
 int melody[] = {
   NOTE_E5, NOTE_E3, NOTE_B4, NOTE_C5, NOTE_D5, NOTE_E5, NOTE_D5, NOTE_C5, 
   NOTE_B4, NOTE_A4, NOTE_A3, NOTE_A4, NOTE_C5, NOTE_E5, NOTE_A3, NOTE_D5,
@@ -88,9 +87,9 @@ int melody[] = {
   NOTE_D4, NOTE_E3, NOTE_GS2, NOTE_E3, NOTE_B3, NOTE_E3, NOTE_GS2, NOTE_E3,
   NOTE_C4, NOTE_E3, NOTE_E4, NOTE_E3, NOTE_A4, NOTE_E3, NOTE_A2, NOTE_E3, 
   NOTE_GS4, NOTE_E3, NOTE_GS2, NOTE_E3, NOTE_GS2, NOTE_E3, NOTE_GS2, NOTE_E3,
-  };
+};
 
-    // note durations: 4 = quarter note, 8 = eighth note, etc.:
+//note durations: 4 = quarter note, 8 = eighth note, etc
 int noteDurations[] = {
   8,8,8,8,8,16,16,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,
   8,4,8,8,16,16,8,8,8,8,8,8,8,16,16,8,8,8,8,8,8,8,8,8,8,8,8,8,8,4,4,
@@ -104,32 +103,31 @@ int noteDurations[] = {
   8,4,8,8,16,16,8,8,8,8,8,8,8,16,16,8,8,8,8,8,8,8,8,8,8,8,8,8,8,4,4,
   8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,
   8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,
-  
-  };
+};
 
-void setup() {
-    // iterate over the notes of the melody:
-  for (int thisNote = 0; thisNote < 1000; thisNote++) {
+void setup(){
+  //iterate over the notes of the melody:
+  for (int thisNote = 0; thisNote < 1000; thisNote++){
 
     /*
-    to calculate the note duration, take one second divided by the note type.
-    e.g. quarter note = 1000 / 4, eighth note = 1000/8, etc.
+      to calculate the note duration, take one second divided by the note type.
+      e.g. quarter note = 1000 / 4, eighth note = 1000/8, etc.
     */
     int noteDuration = 1000/noteDurations[thisNote];
     tone(8, melody[thisNote],noteDuration);
-
-    // to distinguish the notes, set a minimum time between them.
-    // the note's duration + 30% seems to work well:
+    
+    /*
+      to distinguish the notes, set a minimum time between them.
+      the note's duration + 30% seems to work well:
+     */
     int pauseBetweenNotes = noteDuration * 1.30;
     delay(pauseBetweenNotes);
-    // stop the tone playing:
-    noTone(8);
+   
+    noTone(8); //stop the tone playing:
   }
   digitalWrite(8,LOW);
 }
 
-void loop() {
-    //Reset to replay.
-}
+void loop(){ /*press reset to replay. */ }
 
 

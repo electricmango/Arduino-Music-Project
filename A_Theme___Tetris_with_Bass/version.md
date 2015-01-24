@@ -1,10 +1,9 @@
 #A Theme - Tetris with Bass
-####by Electric Mango (Leocarbon)
-<http://electronicmango.blogspot.kr>
+####by electricmango
 
 <https://electricmango.github.io>
 
-<realleocarbon@gmail.com>
+<minhyukjang@gmail.com>
 
 Uses **Arduino tone library <code>pitches.h</code> <http://arduino.cc/en/Tutorial/tone>**
 
@@ -12,7 +11,7 @@ Thanks to Gori Fater for uploading the sheet music on Google
 
 <http://www.gamemusicthemes.com/sheetmusic/gameboy/tetris/z>
 
-Version 1.0.2
+version 1.0.3
 
 ---
 The **A Theme - Tetris with Bass** is licensed under the
@@ -35,10 +34,14 @@ No additional restrictions — You may not apply legal terms or technological me
 
 The full license is available at <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
   
-Copyright (c) 2012 ~ 2014 Electric Mango (Leocarbon)
+Copyright (c) 2012 ~ 2015 electricmango
 
 ---
 ##version.txt
+
+######1.0.3 (1.24.15)
+* minor refinements
+
 ######1.0.2 (3.3.14)
 * Updated licenses
 
