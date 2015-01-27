@@ -2,8 +2,6 @@
 ####by electricmango
 <https://electricmango.github.io>
 
-<minhyukjang@gmail.com>
-
 Uses **Arduino tone library <code>pitches.h</code> <http://arduino.cc/en/Tutorial/tone>**
 
 Arduino code repo for the music I make for the Arduino.
@@ -39,6 +37,6 @@ Thanks for reading me, as the title and the subtitle says.
 ######Contents:
 * Tetris [A-Theme]
 * Nyan Cat
-* Add your own by **forking**, **editing**, and **requesting a pull**! (Any contributors are welcome; [contact me](minhyukjang@gmail.com).)
+* Add your own by **forking**, **editing**, and **requesting a pull**! (Any contributors are welcome)
 
 Make sure you **include the <code>pitches.h</code> header** for the code to work.

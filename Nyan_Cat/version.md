@@ -3,8 +3,6 @@
 
 <https://electricmango.github.io>
 
-<minhyukjang@gmail.com>
-
 Uses **Arduino tone library <code>pitches.h</code> <http://arduino.cc/en/Tutorial/tone>**
 
 Arduino code repo for the music I make for the Arduino.
@@ -13,7 +11,7 @@ Thanks to Sean for posting the sheet music on
 
 <http://junket.tumblr.com/post/4776023022/heres-the-nyan-cat-sheet-music>
   
-Version 1.0.2
+Version 1.0.3
 
 ---
 The **Nyan Cat with Bass** is licensed under the
@@ -41,6 +39,9 @@ Copyright (c) 2012 ~ 2015 electricmango
 ---
 
 ##version.txt
+
+######1.0.3 (1.27.15)
+* some more minor changes
 
 ######1.0.2 (1.24.15)
 * Minor refinements

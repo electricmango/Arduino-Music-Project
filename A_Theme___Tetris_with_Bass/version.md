@@ -3,15 +3,13 @@
 
 <https://electricmango.github.io>
 
-<minhyukjang@gmail.com>
-
 Uses **Arduino tone library <code>pitches.h</code> <http://arduino.cc/en/Tutorial/tone>**
 
 Thanks to Gori Fater for uploading the sheet music on Google
 
 <http://www.gamemusicthemes.com/sheetmusic/gameboy/tetris/z>
 
-version 1.0.3
+version 1.0.4
 
 ---
 The **A Theme - Tetris with Bass** is licensed under the
@@ -38,6 +36,9 @@ Copyright (c) 2012 ~ 2015 electricmango
 
 ---
 ##version.txt
+
+######1.0.4 (1.27.15)
+ - some more minor changes
 
 ######1.0.3 (1.24.15)
 * minor refinements

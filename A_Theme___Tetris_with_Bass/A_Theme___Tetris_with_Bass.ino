@@ -3,12 +3,11 @@
   Uses Arduino tone library pitches.h [http://arduino.cc/en/Tutorial/tone ]
        by electricmango
   https://electricmango.github.io
-          minhyukjang@gmail.com
   
   Thanks to Gori Fater for uploading the sheet music on Google.
   http://www.gamemusicthemes.com/sheetmusic/gameboy/tetris/
   
-  Version 1.0.3
+  Version 1.0.4
   -------------------------------------------------------------------------
   A Theme - Tetris with Bass is licensed under the
   

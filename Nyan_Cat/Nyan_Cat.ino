@@ -3,12 +3,11 @@
   Uses Arduino tone library pitches.h [http://arduino.cc/en/Tutorial/tone ]
        by electricmango
   https://electricmango.github.io
-          minhyukjang@gmail.com
   
   Thanks to Sean for posting the sheet music on
   http://junket.tumblr.com/post/4776023022/heres-the-nyan-cat-sheet-music
   
-  Version 1.0.2
+  Version 1.0.3
   -------------------------------------------------------------------------
   Nyan Cat with Bass is licensed under the
   

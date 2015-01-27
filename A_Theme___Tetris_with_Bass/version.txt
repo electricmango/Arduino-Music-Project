@@ -3,9 +3,8 @@ with Bass
 Uses Arduino tone library pitches.h [http://arduino.cc/en/Tutorial/tone ]
      by electricmango
 https://electricmango.github.io
-        minhyukjang@gmail.com
   
-Version 1.0.3
+Version 1.0.4
 -------------------------------------------------------------------------
 A Theme - Tetris with Bass is licensed under the
   
@@ -30,6 +29,9 @@ The full license is available at https://creativecommons.org/licenses/by-sa/4.0/
 Copyright (c) 2012 ~ 2015 electricmango
 -------------------------------------------------------------------------
 version.txt
+
+1.0.4 (1.27.15)
+ - some more minor changes
 
 1.0.3 (1.24.15)
  - minor refinements
