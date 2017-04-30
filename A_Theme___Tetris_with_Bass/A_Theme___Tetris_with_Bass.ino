@@ -106,7 +106,7 @@ int noteDurations[] = {
 
 void setup(){
   //iterate over the notes of the melody:
-  for (int thisNote = 0; thisNote < 1000; thisNote++){
+  for (int thisNote = 0; thisNote < sizeof(melody) / sizeof(melody[0]); thisNote++){
 
     /*
       to calculate the note duration, take one second divided by the note type.
