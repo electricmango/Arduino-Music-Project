@@ -1,5 +1,5 @@
-#A Theme - Tetris with Bass
-####by electricmango
+# A Theme - Tetris with Bass
+#### by electricmango
 
 <https://electricmango.github.io>
 
@@ -35,19 +35,19 @@ The full license is available at <https://creativecommons.org/licenses/by-sa/4.0
 Copyright (c) 2012 ~ 2015 electricmango
 
 ---
-##version.txt
+## version.txt
 
-######1.0.4 (1.27.15)
+###### 1.0.4 (1.27.15)
  - some more minor changes
 
-######1.0.3 (1.24.15)
+###### 1.0.3 (1.24.15)
 * minor refinements
 
-######1.0.2 (3.3.14)
+###### 1.0.2 (3.3.14)
 * Updated licenses
 
-######1.0.1 (6.10.12)
+###### 1.0.1 (6.10.12)
 * Copyright & Version Notes
    
-######1.0.0 (1.27.12)
+###### 1.0.0 (1.27.12)
 * Finished melody + bass

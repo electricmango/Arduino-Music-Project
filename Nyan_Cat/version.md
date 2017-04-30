@@ -1,5 +1,5 @@
-#Nyan Cat with Bass
-####by electricmango
+# Nyan Cat with Bass
+#### by electricmango
 
 <https://electricmango.github.io>
 
@@ -38,16 +38,16 @@ Copyright (c) 2012 ~ 2015 electricmango
 
 ---
 
-##version.txt
+## version.txt
 
-######1.0.3 (1.27.15)
+###### 1.0.3 (1.27.15)
 * some more minor changes
 
-######1.0.2 (1.24.15)
+###### 1.0.2 (1.24.15)
 * Minor refinements
 
-######1.0.1 (3.5.14)
+###### 1.0.1 (3.5.14)
 * Updated licenses
 
-######1.0.0 (8.16.12)
+###### 1.0.0 (8.16.12)
 * Released
